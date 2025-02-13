@@ -40,9 +40,9 @@ Screenshot of the execution of the Custom Password Checker.
 - User-Friendly Feedback; Provides clear recommendations to improve weak passwords.
 
 ## Installing Requirements
-   ```bash
+```bash
 pip install -r requirements.txt
- ```
+```
 ## Contact
 If you have any questions, suggestions, or issues, feel free to reach out:
 #### Email: oussamamellakh88@gmail.com
