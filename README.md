@@ -5,11 +5,14 @@ NIST-Compliant Guidelines – Based on the standards set by the National Institu
 Custom Enhanced Password Security – A more stringent standard designed to ensure stronger password security beyond NIST guidelines.
 This repository contains two password strength checking scripts:
 
-## 1. NIST-Based Password Checker
+1. NIST-Based Password Checker
 The NIST Password Checker follows the official NIST SP 800-63B guidelines, ensuring that passwords meet basic security standards. It checks for:
+
 ✔ Minimum length of 8 characters (12+ recommended).
 ✔ Avoidance of common passwords by checking against a known list of compromised passwords.
 ✔ Breach detection using the Have I Been Pwned (HIBP) API.
+
+While NIST guidelines improve security, they do not guarantee a truly strong password..
 
 While NIST guidelines improve security, they do not guarantee a truly strong password.
 
