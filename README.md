@@ -1,7 +1,8 @@
 # Password Strength Checker 🔒
 The Password Strength Checker is a Python-based tool designed to evaluate password security using two different approaches:
 
-NIST-Compliant Guidelines – Based on the standards set by the National Institute of Standards and Technology (NIST).                                                                                           Custom Enhanced Password Security – A more stringent standard designed to ensure stronger password security beyond NIST guidelines.
+NIST-Compliant Guidelines – Based on the standards set by the National Institute of Standards and Technology (NIST).                                                                                          
+Custom Enhanced Password Security – A more stringent standard designed to ensure stronger password security beyond NIST guidelines.
 This repository contains two password strength checking scripts:
 
 ## 1. NIST-Based Password Checker
