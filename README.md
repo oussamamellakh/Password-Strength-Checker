@@ -41,3 +41,8 @@ Screenshot of the execution of the Custom Password Checker.
 
 ## Installing Requirements
 pip install -r requirements.txt
+
+## Contact
+If you have any questions, suggestions, or issues, feel free to reach out:
+#### Email: oussamamellakh88@gmail.com
+
