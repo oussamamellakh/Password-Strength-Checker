@@ -36,5 +36,5 @@ Screenshot of the execution of the Custom Password Checker.
 - Breach Check; Verifies whether the password has been exposed in known data breaches using the Have I Been Pwned API.
 - User-Friendly Feedback; Provides clear recommendations to improve weak passwords.
 
-## Installing requirements
+## Installing Requirements
 pip install -r requirements.txt
