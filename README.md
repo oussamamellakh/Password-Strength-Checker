@@ -26,6 +26,10 @@ This Enhanced Password Checker ensures:
 - Avoidance of dictionary words, common phrases, and predictable patterns (e.g., "12345", "password", "qwerty").
 - Stricter evaluation criteria than NIST, making passwords much harder to crack.
 
+Screenshot of the execution of the Custom Password Checker:
+![image](https://github.com/user-attachments/assets/e0a4af5e-0087-478c-afb3-614740d29075)
+
+
 ## Why Use This Password Strength Checker?
 - Prevents Weak Passwords; By detecting common, breached, or easy-to-guess passwords.
 - Enhanced Security; Goes beyond NIST by implementing stricter rules for real-world security threats.
