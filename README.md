@@ -29,7 +29,7 @@ This Enhanced Password Checker ensures:
 - User-Friendly Feedback; Provides clear recommendations to improve weak passwords.
 
 ## How It Works
-1️⃣ The tool prompts the user to enter a password.
-2️⃣ The password is checked against both NIST standards and the custom enhanced security rules.
-3️⃣ If the password is weak, feedback is provided with specific suggestions on how to strengthen it.
+1- The tool prompts the user to enter a password.                                                                                              
+2- The password is checked against both NIST standards and the custom enhanced security rules.
+3️- If the password is weak, feedback is provided with specific suggestions on how to strengthen it.
 4️⃣ If the password is strong, the user is notified that it meets modern security standards.
