@@ -33,9 +33,8 @@ Screenshot of the execution of the Custom Password Checker.
 ## Why Use This Password Strength Checker?
 - Prevents Weak Passwords; By detecting common, breached, or easy-to-guess passwords.
 - Enhanced Security; Goes beyond NIST by implementing stricter rules for real-world security threats.
+- Breach Check; Verifies whether the password has been exposed in known data breaches using the Have I Been Pwned API.
+- User-Friendly Feedback; Provides clear recommendations to improve weak passwords.
 
 ## Installing requirements
 pip install -r requirements.txt
-
-- Breach Check; Verifies whether the password has been exposed in known data breaches using the Have I Been Pwned API.
-- User-Friendly Feedback; Provides clear recommendations to improve weak passwords.
