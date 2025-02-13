@@ -11,6 +11,8 @@ The NIST Password Checker follows the official NIST SP 800-63B guidelines, ensur
 - Avoidance of common passwords by checking against a known list of compromised passwords.
 - Breach detection using the Have I Been Pwned (HIBP) API.
 
+![image](https://github.com/user-attachments/assets/d1479b52-c612-4ca4-aa74-22fff196a2a1)
+
 While NIST guidelines improve security, they do not guarantee a truly strong password.
 
 ## 2. Custom Stronger Password Checker
